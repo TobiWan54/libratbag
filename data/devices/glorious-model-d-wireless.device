@@ -1,0 +1,11 @@
+[Device]
+Name=Glorious Model D/D- Wireless
+DeviceMatch=usb:258a:2025;usb:258a:2014
+DeviceType=mouse
+Driver=sinowealth
+
+[Driver/sinowealth/devices/FEED]
+Buttons=6
+DeviceName=Glorious Model D/D- Wireless
+LedType=RBG
+SensorType=BAMF2.0
